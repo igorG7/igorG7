@@ -9,7 +9,7 @@
 ### Minhas habilidades 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height ="30px" alt="logo html 5"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height ="30px" alt="logo css 3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" height ="30px" alt="logo javascript">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorG7&show_icons=true&theme=dark&line_height=20) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorG7&layout=compact&theme=dark&card_width=410&)](https://github.com/igorG7/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorG7&show_icons=true&theme=dark&line_height=20) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorG7&layout=compact&theme=dark&card_width=400&)](https://github.com/igorG7/github-readme-stats)
 
 
 
