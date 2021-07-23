@@ -1,5 +1,5 @@
 ### Olá 👋 sou o Igor Giovane
-  No momento sou estudante de ADS e sigo buscando conhecimentos relacionados a área e práticando bastante para ampliar meu portifólio, novas oprtunidades e conhecimentos são sempre bem-vindos!
+  No momento sou estudante de ADS e sigo buscando conhecimentos relacionados a área e práticando bastante para ampliar meu portifólio, novas oportunidades e conhecimentos são sempre bem-vindos!
  <br> Skatista amador 🛹 nas horas vagas e gamer. 🎮
   
  ## Conecte-se comigo
